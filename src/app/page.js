@@ -13,12 +13,12 @@ export default function Home() {
               something thrilling!
             </h1>
             <h2 className="pt-4 text-sm tracking-tight text-gray-900 sm:text-xl md:text-lg md:mx-[100px] lg:text-2xl lg:mx-[250px]">
-              We've landed a snazzy new brand name that totally vibes with our
+              We have landed a snazzy new brand name that totally vibes with our
               amazing services means we need a new web launch.
             </h2>
             <p className="text-[8px] mx-auto font-bold text-gray-900 md:text-[10px]/relaxed lg:text-[14px]/relaxed dark:text-gray-400">
               Peek at our spiffy new website transformation! Brace yourself for
-              the grand reopening - it's going to be legendary!
+              the grand reopening - it is going to be legendary!
             </p>
           </div>
         </div>
